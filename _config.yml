@@ -112,7 +112,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "https://fit-s-u-m.github.io/fit-s-u-m.gitub.io/"
+baseurl:  '' #"fit-s-u-m.gitub.io"  #"https://fit-s-u-m.github.io/fit-s-u-m.gitub.io/"
 
 # ------------ The following options are not recommended to be modified ------------------
 
